@@ -707,6 +707,12 @@ websites:
     twitter: KeyBank_Help
     img: keybank.png
 
+ - name: KeyPoint Credit Union
+      url: https://kpcu.com/
+      twitter: KeyPointCU
+      facebook: KeyPoint
+      img: keypoint.png
+
   - name: La Banque Postale
     url: https://www.labanquepostale.fr/
     twitter: LaBanquePostale
